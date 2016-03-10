@@ -1,0 +1,19 @@
+{
+  "name": "whirly",
+  "version": "0.0.1",
+  "description": "An NPM module. For making things whirl",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecwillis/whirly.git"
+  },
+  "author": "Eric Willis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecwillis/whirly/issues"
+  },
+  "homepage": "https://github.com/ecwillis/whirly#readme"
+}
