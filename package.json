@@ -1,6 +1,6 @@
 {
   "name": "whirly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An NPM module. For making things whirl",
   "main": "index.js",
   "scripts": {
