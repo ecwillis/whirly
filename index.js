@@ -5,5 +5,7 @@ module.exports = function(text) {
     text = text + ' Frank please!';
   }
 
+  text = text.toUpperCase();
+
   return text.split();
 }
